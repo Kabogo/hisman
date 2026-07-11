@@ -1,7 +1,5 @@
 Hisman Property Consultants LTD Website
 
-Updated project from the Lutonya webapp template.
-
 Main updates:
 - Company name changed to Hisman Property Consultants LTD
 - Main contact changed to 0703 487536
